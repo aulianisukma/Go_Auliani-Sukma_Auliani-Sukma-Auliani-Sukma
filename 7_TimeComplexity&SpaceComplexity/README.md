@@ -1,0 +1,3 @@
+## Time Complexity & Spcae Complexity adalah menghitung sebuah algoritma atau sistem akan berjalan dalam hal waktu. menentukan waktu tersebut dengan cara menghitung seberapa dominan operasi yang dilakukan.
+## Pada time complexity dan space complexity terdapat constant time, linear time, logarithmic time, Quadratic time.\
+## Space complexity dipergunakan untuk mengalokasi memori yang dibutuhkan pada sebuah algoritma.
