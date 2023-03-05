@@ -1,0 +1,4 @@
+## Problem solving paardigm adalah pendekatan yang biasa digunakan untuk memecahkan masalah pada brute force, divide & conquer, greedy, dan dynamic programming.
+## Complete search atau brute force adalah metode  metode untuk memecahkan masalah dengan melintasi seluruh ruang pencarian untuk mendapatkan solusi yang diperlukan. 
+## Pada divide & conquer terdapat beberapa step yaitu divide, conquer, dan combine.
+## Dynamic programming, terdapat dua karakteristik pada dynamic programming yaitu diantaranya overlapping subproblems dan ptional substructure property. Selain itu pada dynamic programming juga terdapat dua metode yaitu top-down with memoization dam bottom-up with tabulation. 

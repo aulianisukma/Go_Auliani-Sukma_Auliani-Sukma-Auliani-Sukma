@@ -1,0 +1,3 @@
+## Pada materi ini membahas menganai recursive, number theory, sorting dan searching.
+## Recursive ini dibutuhkan karena banyak masalah lebih mudah dipecahkan dan dipersingkat saat menggunakan pendekatan recursive ini. Number theory adalah branch dari matematika yang mempelajari mengenai bilangan bulat, bilangan prima, FPB dan KPK.
+## Pada searching terdapat linear search dan builtins search. Sedangkan pada sorting terdapat selection sort, counting sort, dan merge sort.
