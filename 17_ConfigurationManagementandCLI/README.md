@@ -1,0 +1,3 @@
+## Command line adalah  mekanisme interaksi dengan sistem operasi atau perangkat lunak komputer dengan mengetikkan perintah untuk menjalankan tugas tertentu. 
+## Dengan program ini, user bisa mengetikkan perintah dalam bentuk teks dan memberikan instruksi pada komputer untuk mengerjakan tugas tertentu. Selanjutnya, dalam CLI terdapat sistem operasi, kita akan menjumpai sesuatu yang disebut shell. Shell adalah user interface yang bertugas untuk memproses semua perintah yang diketik di CLI. Shell membaca dan mengartikan perintah, lalu menginstruksikan sistem operasi untuk menjalankan task sesuai permintaan. 
+## shell memiliki beberapa fungsi, di antaranya: Menangani file dan direktori, membuka dan menutup program, mengelola proses komputer, menjalankan task berulang.
