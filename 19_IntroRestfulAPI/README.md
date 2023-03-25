@@ -1,0 +1,4 @@
+## Pada materi intro restful API ini mempelajari mengenai pengertian dari API itu sendiri, dilanjutkan dengan REST, JSON, HTTP Response Code, open API, introduction to POSTMan, Package net/http.
+## REST, singkatan bahasa Inggris dari representational state transfer atau transfer keadaan representasi, adalah suatu gaya arsitektur perangkat lunak untuk untuk pendistribusian sistem hipermedia seperti WWW.
+## JSON sendiri merupakan singkatan dari JavaScript Object Notation. HTTP response code terdapat 7 code yaitu 200 yang berarti OK, 2001 Created, 400 Bad Request, 404 Not Found, 401 Unauthorized, 405 Method Not Allowed, dan yang teralhir 500 Internal server eror.
+## API tools yang dapat digunakan yaitu katalon, apache jmetes, POSTMan, dan SoapUI.
