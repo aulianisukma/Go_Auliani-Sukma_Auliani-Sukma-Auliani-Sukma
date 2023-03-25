@@ -1,0 +1,4 @@
+## Pada materi system desgin ini mempelajari mengenai diagram desugn, characteristics of distributed syste,, horizontal scaling vs vertical scaling, job/work queue, load balancing, monolitihc vs microservices, sql vs nosql, caching, database, indexing, dan yang terakhir database replication.
+## Diagram design tools sendiri dapat menggunakan smart draw, lucidchart, whimsical, draw.ii, dan visio.
+## Karakteristik dari sistem distribusi terdapat lima yaitu diantaranya scalability, reliability, availability, efficieny, serviceability or manageabillity.
+## Simple tech stack bisa menggunakan drupal, php, mariaDB, nginx, debian, android, dan ios.
