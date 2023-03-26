@@ -1,0 +1,3 @@
+## Pada materi intro echo golang ini mempelajari mengenai bagaimana cara menginstall echo, kemudian mempelajari menganai basic routes & controller, render data (JSON Response), retrieve data, Binding Data, Overview Final projet.
+## Routing data sendirii memiliki arti yaitu : Echo menyediakan fitur routing yang sangat mudah digunakan. Developer hanya perlu menentukan endpoint dan handler function yang akan dijalankan ketika endpoint tersebut dipanggil.
+## Dengan fitur-fitur yang dimilikinya, Echo sangat cocok digunakan untuk membangun aplikasi web yang scalable dan performa tinggi. Selain itu, Echo juga memiliki dokumentasi yang.
