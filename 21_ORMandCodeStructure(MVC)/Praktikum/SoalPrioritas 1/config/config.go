@@ -19,7 +19,7 @@ func init() {
 	DB_Password := "102jatihurip"
 	DB_Port := "3306"
 	DB_Host := "localhost"
-	DB_Name := ""
+	DB_Name := "gorm_aul"
 
 	connectionString := fmt.Sprint("%s:%s@tcp(%s:%s)/%s?charset+utf8&parseTime=True&loc+Local",
 		Db_Username,
