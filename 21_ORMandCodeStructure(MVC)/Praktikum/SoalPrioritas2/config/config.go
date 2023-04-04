@@ -1,16 +1,22 @@
-package config
+package configs
 
 import (
 	"fmt"
-	"New_Praktikum/user_model"
 
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
+
+	"day-13-orm/models"
 )
 
 var (
 	DB *gorm.DB
 )
+
+func Init() {
+	InitDB()
+	InitialMigration()
+}
 
 type Config struct {
 	DB_Username string
@@ -24,10 +30,10 @@ func InitDB() {
 
 	config := Config{
 		DB_Username: "root",
-		DB_Password: "102jatihurip",
-		DB_Port:     "3306",
+		DB_Password: "123456",
+		DB_Port:     "3356",
 		DB_Host:     "localhost",
-		DB_Name:     "orm_go",
+		DB_Name:     "gorm_crud",
 	}
 
 	connectionString := fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?charset=utf8&parseTime=True&loc=Local",
@@ -43,9 +49,4 @@ func InitDB() {
 	if err != nil {
 		panic(err)
 	}
-	InitialMigration()
-}
-
-func InitialMigration() {
-	DB.AutoMigrate(&user_model.User{})
 }
