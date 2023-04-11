@@ -1,0 +1,3 @@
+## Pada materi kali ini mempelajari mengenai unit testing. unit testing sedniri dapat diartikan proses pengembangan perangkat lunak di mana bagian aplikasi terkecil yang dapat diuji, yang disebut unit, diperiksa secara individual dan independen untuk mendapatkan hasil tepat. Metodologi pengujian ini dilakukan selama proses pengembangan oleh Software Developer.
+## Tujuan dari unit testing ini sendiri yaitu preventing regrission, confidence level in refactoring, improve code design, code documentation, dan terakhir scaling the team.
+## Unit Testing sangat penting sekali karena bisa mempersingkat waktu seorang pengembang software(programmer) dalam pembuatan sebuah aplikasi. Serta dengan unit testing kita dapat meminimalisir error terjadi sebelum masuk dalam fase QA 
