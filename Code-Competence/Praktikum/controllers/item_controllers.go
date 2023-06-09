@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"Code_Competence/config"
+	"Code-Competence/config"
 	database "Code-Competence/lib/database"
 	"Code-Competence/models"
 	"net/http"
